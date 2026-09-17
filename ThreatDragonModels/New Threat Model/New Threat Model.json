@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-17",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Admin",
+    "description": "A web-based login application that authenticates users using their username and password. The application communicates with an authentication server and database to verify credentials and provide access to authorized users.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Faculty",
+    "threatTop": 0
+  }
+}
